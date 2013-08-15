@@ -2,8 +2,8 @@ package br.com.lino.binario;
 
 public class Soma {
 
-	String soma = "";
-	int vaiUm = 0;
+	private String soma = "";
+	private Integer vaiUm = 0;
 
 	public String calcula(String valor1, String valor2) {
 
